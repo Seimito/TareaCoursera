@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">Coursera Task</string>
+    <string name="nombre_app" translatable="false">Coursera Task</string>
+    <string name="subtitulo" translatable="false">My first application</string>
+    <string name="texto_ejemplo" translatable="false">This is an example text to be able to handle different languages ​​in android.</string>
+    <string name="boton_entrar" translatable="false">Enter</string>
+</resources>
+

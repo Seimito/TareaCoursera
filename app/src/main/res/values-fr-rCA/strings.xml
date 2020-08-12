@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tâche Coursera</string>
+    <string name="nombre_app" translatable="false">Tâche Coursera</string>
+    <string name="subtitulo" translatable="false">Ma première appli</string>
+    <string name="texto_ejemplo" translatable="false">Ceci est un exemple de texte pour pouvoir gérer différentes langues dans Android.</string>
+    <string name="boton_entrar" translatable="false">Entrer</string>
+</resources>
